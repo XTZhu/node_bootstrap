@@ -1,0 +1,19 @@
+{
+  "name": "node_bootstrap",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.ts"
+  },
+  "keywords": [
+    "node",
+    "bootstrap"
+  ],
+  "author": "zwz",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.4.3"
+  }
+}

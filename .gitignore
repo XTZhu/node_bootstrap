@@ -1,0 +1,7 @@
+# vscode 的配置文件
+.vscode
+
+# package 也可以不注释 详情看README.md里面的 Note->package-lock.json 文件的作用
+# package-lock.json
+
+node_modules
