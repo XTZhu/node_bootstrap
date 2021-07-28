@@ -15,5 +15,9 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.4.3"
+  },
+  "dependencies": {
+    "mongoose": "^5.13.3",
+    "puppeteer": "^10.1.0"
   }
 }
