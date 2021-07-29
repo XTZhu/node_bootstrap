@@ -5,3 +5,6 @@
 # package-lock.json
 
 node_modules
+
+# idea 配置文件
+.idea

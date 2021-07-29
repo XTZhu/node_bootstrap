@@ -19,7 +19,8 @@
     "@types/node": "^16.4.3"
   },
   "dependencies": {
-    "mongoose": "^5.13.3",
+    "cheerio": "^1.0.0-rc.10",
+    "mongoose": "^5.13.4",
     "puppeteer": "^10.1.0",
     "superagent": "^6.1.0"
   }
